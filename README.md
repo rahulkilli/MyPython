@@ -1,2 +1,1 @@
-PYTHON<b>
-These are my coding files
+PYTHON<b>These are my coding files
